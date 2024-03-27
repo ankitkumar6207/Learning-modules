@@ -1,0 +1,121 @@
+basics:
+1 . Program to find Fibonacci numbers series
+Sum of N natural numbers:
+Greatest of the Three numbers: 
+Leap year or not:
+Prime number
+Prime number within a given range
+Sum of digits of a number:
+Reverse of a number 
+Palindrome number:
+Armstrong number :
+Armstrong number in a given range :
+Fibonacci Series upto nth term :
+Find the Nth Term of the Fibonacci Series :
+Factorial of a number :
+Power of a number :
+Factor of a number :
+Finding Prime Factors of a number 
+Strong number 
+Perfect number 
+Perfect Square :
+Automorphic number
+Friendly pair 
+
+working with numbers:
+Highest Common Factor(HCF):
+Lowest Common Multiple (LCM) :
+Greatest Common Divisor :
+Binary to Decimal to conversion :
+Decimal to Binary conversion:
+Quadrants in which a given coordinate lies 
+Permutations in which n people can occupy r seats in a classroom 
+Maximum number of handshakes
+Addition of two fractions
+Replace all 0’s with 1 in a given integer 
+Find the prime numbers between 1 to 100 :
+Calculate the number of digits in an integer 
+Convert digit/number to words :
+Counting number of days in a given month of a year:
+Finding Number of times x digit occurs in a given input :
+Finding number of integers which has exactly x divisors
+Finding Roots of a quadratic equation 
+
+
+Arrays:
+Find Largest element in an array :
+Find Smallest Element in an Array 
+Find the Smallest and largest element in an array : 
+Find Second Smallest Element in an Array : 
+Calculate the sum of elements in an array 
+Reverse an Array :
+Sort first half in ascending order and second half in descending :
+Sort the elements of an array : 
+Finding the frequency of elements in an array :  
+Sorting elements of an array by frequency :
+Finding the Longest Palindrome in an Array :
+Counting Distinct Elements in an Array :
+Finding  Repeating elements in an Array :
+Finding Non Repeating elements in an Array :
+Removing Duplicate elements from an array 
+Counting the number of even and odd elements in an array :
+Find all Symmetric pairs in an array :
+Find maximum product sub-array in a given array :
+Finding Arrays are disjoint or not 
+Sort an array according to the order defined by another array :
+Replace each element of the array by its rank in the array 
+
+
+must do array questions:
+
+Given an array which consists of only 0, 1 and 2. Sort the array without using any  algorithm –
+Find the “Kth” max and min element of an array 
+Move all the negative elements to one side of the array 
+Find the Union and Intersection of the two sorted arrays.
+Find Largest sum contiguous Subarray –
+Merge 2 sorted arrays without using extra space. 
+Kadane’s Algorithm 
+Best time to buy and Sell stock 
+Find all pairs on integer array whose sum is equal to given number
+Find if there is any subarray with sum equal to 0
+Given an array of size n and a number k, find all elements that appear more than ” n/k ” times
+Next Permutation
+Find longest consecutive subsequence 
+Trapping Rain water problem
+Chocolate Distribution problem
+Smallest Subarray with sum greater than a given value
+Median of 2 sorted arrays of equal size
+
+2-d array:
+Spiral traversal on a Matrix
+Search an element in a matrix
+Find median in a row wise sorted matrix
+Find row with maximum no. of 1’s 
+Print elements in sorted order using row-column wise sorted matrix 
+Find a specific pair in matrix
+Rotate matrix by 90 degrees
+Kth smallest element in a row-column wise sorted matrix 
+Common elements in all rows of a given matrix
+
+question on string:
+Check whether a character is a vowel or consonant
+Check whether a character is a alphabet or not :
+Find the ASCII value of a character :
+Length of the string without using strlen() function 
+Toggle each character in a string
+Count the number of vowels 
+Remove the vowels from a String
+Check if the given string is Palindrome or not
+Print the given string in reverse order :
+Remove all characters from string except alphabets
+Remove spaces from a string 
+Count the sum of numbers in a string :
+Capitalize the first and last character of each word of a string :
+Calculate frequency of characters in a string
+Find non-repeating characters in a string :
+Check if two strings are Anagram or not 
+Replace a sub-string in a string
+Replacing a particular word with another word in a string
+Count common sub-sequence in two strings
+Count common sub-sequence in two strings
+Print all permutations of a given string in lexicographically sorted order
